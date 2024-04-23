@@ -1,1 +1,1 @@
-# checkout main  branch
+# checkout master  branch
